@@ -48,3 +48,12 @@ nav {
   justify-content: flex-end;
   align-items: center;
 }
+a {
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+}
